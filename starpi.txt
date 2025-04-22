@@ -1,0 +1,28 @@
+starpi หลัก
+nutsabino@gmail.com
+Nut123456
+
+CNMD-HFQF
+
+pass:user12
+
+user
+nut01
+nutsabino@gmail.com
+Nut123456
+
+api
+
+Plura Types
+http://localhost:1337/api/blogs
+http://localhost:1337/api/authors
+
+Single Types
+http://localhost:1337/api/landing-page
+
+secure: lax
+http://localhost:3000
+http://localhost:1337
+
+http://localhost:1337/api/connect/google/callback
+http://localhost:1337/api/connect/google/callback
